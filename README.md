@@ -1,6 +1,6 @@
 # Data-Breaches-2018-Visualization-with-Tableau
 Data set for this section: Data Breaches 2018 updated (.csv format).
-Folllowing questioned are answered using tableau visualization
+Folllowing questiones are answered using tableau visualization
 
 Questions
 1. Which sector has the maximum number of records stolen(make use of LOD calculations to
