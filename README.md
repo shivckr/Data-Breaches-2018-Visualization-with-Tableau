@@ -1,5 +1,5 @@
 # Data-Breaches-2018-Visualization-with-Tableau
-Data set for this section: Data Breaches 2018 updated (.csv format)
+Data set for this section: Data Breaches 2018 updated (.csv format).
 Folllowing questioned are answered using tableau visualization
 
 Questions
